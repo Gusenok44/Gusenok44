@@ -1,0 +1,4 @@
+- 👋 Hi, I’m Ilya
+- 👀 I’m interested in Blockchain
+- 🌱 I’m currently learning Cosmos SDK
+- 💞️ I’m looking to collaborate on Venom Foundation
